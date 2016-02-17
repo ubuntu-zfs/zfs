@@ -1,3 +1,9 @@
+zfs-linux (0.6.5.4-git160217~gh1~trusty) trusty; urgency=low
+
+  * update zfs to zfsonlinux/zfs@84638a5 (zfs-0.6.5-release)
+
+ -- Fajar A. Nugraha <ubuntu-ppa@fajar.net>  Wed, 17 Feb 2016 14:43:00 +0700
+
 zfs-linux (0.6.5.4-1~trusty) trusty; urgency=low
 
   [ Chunwei Chen ]
